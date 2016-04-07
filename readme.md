@@ -2,7 +2,7 @@
 
 ## absolument inutile
 
-//test de commentaire
+*test de commentaire*
 
 * jour 1
 * _jour2_
