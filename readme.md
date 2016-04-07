@@ -5,7 +5,7 @@
 //test de commentaire
 
 * jour 1
-* *jour2*
+* _jour2_
 
 [super url](http://fablab-lyon.fr)
 
